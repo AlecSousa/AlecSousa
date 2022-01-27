@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Currently VsCode</strong>
+  💼 Ferramentas: <strong>Currently VsCode, Figma, Git and GitHub</strong>
 </p>
 
 <p align="left">
