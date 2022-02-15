@@ -34,5 +34,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alecs_o_leao/"/></a>
 </p>  
 
-[![AlecSousa](https://github-readme-stats.vercel.app/api/top-langs/?username=AlecSousa&hide=html&layout=compact=true&theme=default)](https://github.com/AlecSousa)
-[![card](https://github-readme-stats.vercel.app/api?username=AlecSousa&theme=default)](https://github.com/AlecSousa/)
+[![AlexSousa4](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSousa4&hide=html&layout=compact=true&theme=default)](https://github.com/AlexSousa4)
+[![card](https://github-readme-stats.vercel.app/api?username=AlexSousa4&theme=default)](https://github.com/AlexSousa4/)
