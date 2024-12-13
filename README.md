@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  • Frameworks and Technologies: ReactJS, React Native, JQuery, Next.js, Node.js, Docker<br>
+  • Frameworks and Technologies: ReactJS, Java, JQuery, Next.js, Node.js, Docker<br>
   • Databases: MySQL<br>
   • Operating Systems: Windows<br>
   • Agile Methodologies: SCRUM<br>
