@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Alec Sousa">
 
 <p align="left"> 
- Hello, my name is Alex Sousa. I am a FullStack Developer transitioning from the Pharmacy field. I am passionate about technology and committed to creating innovative solutions. I have experience contributing to project development, always staying up-to-date with the latest trends and tools in the industry.
+ Hello, my name is Alex Sousa. I am a FullStack Developer focused on Java. I am passionate about technology and committed to creating innovative solutions. I have experience contributing to project development, always staying up-to-date with the latest trends and tools in the industry.
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
   • Databases: MySQL<br>
   • Operating Systems: Windows<br>
   • Agile Methodologies: SCRUM<br>
-  • Programming Languages: JavaScript, TypeScript, Java
+  • Programming Languages: JavaScript, Node.js, Java
 </p>
 
 <p align="left">
